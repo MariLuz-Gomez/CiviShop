@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": ".github",
+			"path": "."
+		},
+		{
+			"name": "CiviShop",
+			"path": "../CiviShop"
+		},
+		{
+			"name": "CiviShop",
+			"path": "../../../../Documents/CiviShop"
+		},
+		{
+			"name": ".vscode",
+			"path": "../.vscode"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

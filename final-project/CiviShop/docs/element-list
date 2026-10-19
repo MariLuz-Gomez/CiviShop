@@ -1,0 +1,8 @@
+com.empresa.civishop.backend
+com.empresa.civishop.backend.Controller
+com.empresa.civishop.backend.Entity
+com.empresa.civishop.backend.Entity.OrderDetail
+com.empresa.civishop.backend.Repository
+com.empresa.civishop.backend.Service
+com.empresa.civishop.backend.Service.impl
+com.empresa.civishop.backend.util
